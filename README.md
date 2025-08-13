@@ -47,6 +47,3 @@ Este exemplo representa a gramática G = ({L, M, I}, {s, x, y, z}, P, L), com as
     ```bash
     ./reconhecedor gramatica.txt
     ```
-    ```bash
-    ./reconhecedor gramatica.txt
-    ```
